@@ -1,0 +1,12 @@
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\bin\Debug\Instalador.exe
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\bin\Debug\Instalador.pdb
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\bin\Debug\Instalador.xml
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.vbproj.AssemblyReference.cache
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.Form1.resources
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.Resources.resources
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.vbproj.GenerateResource.cache
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.vbproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.exe
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.xml
+C:\Users\josea\OneDrive\Falla\AppLoteria-En curso\Instalador\obj\Debug\Instalador.pdb
